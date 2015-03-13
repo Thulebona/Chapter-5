@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapterPattern/adapterPattern.iml" filepath="$PROJECT_DIR$/adapterPattern/adapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chainOfResponsibility/chainOfResponsibility.iml" filepath="$PROJECT_DIR$/chainOfResponsibility/chainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creationalPattern/creationalPattern.iml" filepath="$PROJECT_DIR$/creationalPattern/creationalPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testCases.iml" filepath="$PROJECT_DIR$/testCases.iml" />
+    </modules>
+  </component>
+</project>
