@@ -1,11 +1,626 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daa4ccc3-f9cc-4662-ab71-33c5cbf61871" name="Default" comment="" />
+    <list default="true" id="daa4ccc3-f9cc-4662-ab71-33c5cbf61871" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/AbstractFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/AbstractFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/test-classes/za/ac/cput/testCases/AbstractTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/target/classes/za/ac/cput/strategyPattern/Add.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/classes/za/ac/cput/singleton/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/test-classes/za/ac/cput/singleton/AppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/test-classes/za/ac/cput/flyweightPattern/AppTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/target/classes/za/ac/cput/statePattern/BatteryMode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/test-classes/za/ac/cput/testCases/BuilderTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/Transport/Bus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/classes/za/ac/cput/singleton/CalculateR_Area.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/test-classes/za/ac/cput/singleton/CalculateR_AreaTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/target/test-classes/za/ac/cput/strategyPattern/CalculateTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/target/classes/za/ac/cput/strategyPattern/Calculator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/Singleton/Calculator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/target/classes/za/ac/cput/iteratorPattern/Channel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/target/test-classes/za/ac/cput/iteratorPattern/ChannelTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/target/classes/za/ac/cput/mediator/ChartRoom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/target/test-classes/za/ac/cput/mediator/ChatRoomTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/Prototype/CloneObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/target/classes/za/ac/cput/prototype/ClonePlayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/classes/za/ac/cput/commandPattern/Command.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/test-classes/za/ac/cput/commandPattern/CommandTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/target/classes/za/ac/cput/strategyPattern/Context.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/target/classes/za/ac/cput/engineAdapter/Currency.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/target/classes/za/ac/cput/engineAdapter/CurrencyConverterToDols.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/target/classes/za/ac/cput/engineAdapter/CurrencyConverterToRands.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/target/classes/za/ac/cput/engineAdapter/CurrencyInD.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/target/test-classes/za/ac/cput/engineAdapter/CurrencyRandTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/BuilderPattern/DiplomaCourse.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/BuilderPattern/DiplomaCourseBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/BuilderPattern/DiplomaCourseDirector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/target/classes/za/ac/cput/strategyPattern/Division.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/target/classes/za/ac/cput/facadePattern/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/FactoryMethod/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/FactoryMethod/EmployeeFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/target/classes/za/ac/cput/templateMethod/FacebookLog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/test-classes/za/ac/cput/testCases/FactoryMethodTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/FactoryType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/Transport/FerryBoat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/target/classes/za/ac/cput/proxyPattern/File.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/target/classes/za/ac/cput/proxyPattern/FileProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/target/classes/za/ac/cput/prototype/FooballPlayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/classes/za/ac/cput/builderPattern/FootBall.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/test-classes/za/ac/cput/builderPattern/FootBallPlayerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/target/classes/za/ac/cput/factoryMethod/FootballPlayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/target/test-classes/za/ac/cput/prototype/FootballPlayerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/classes/za/ac/cput/flyweightPattern/GearDown.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/classes/za/ac/cput/flyweightPattern/GearShifting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/classes/za/ac/cput/flyweightPattern/GearUp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/classes/za/ac/cput/testCases/GradeAHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/classes/za/ac/cput/testCases/GradeBHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/classes/za/ac/cput/testCases/GradeCHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/classes/za/ac/cput/testCases/GradeDHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/test-classes/za/ac/cput/testCases/GradeDHandlerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/classes/za/ac/cput/testCases/GradeHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/target/classes/za/ac/cput/statePattern/Laptop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/FactoryMethod/Lecturer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/Prototype/Lecturer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/target/classes/za/ac/cput/templateMethod/Login.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/target/classes/za/ac/cput/facadePattern/Manager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/target/classes/za/ac/cput/templateMethod/MxitLog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/target/classes/za/ac/cput/observerDisignPatten/Observer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/target/test-classes/za/ac/cput/observerDisignPatten/ObserverTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/target/classes/za/ac/cput/statePattern/OnPlugMode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/classes/za/ac/cput/builderPattern/Player.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/target/classes/za/ac/cput/factoryMethod/Player.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/classes/za/ac/cput/builderPattern/PlayerBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/classes/za/ac/cput/builderPattern/PlayerDirector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/target/classes/za/ac/cput/factoryMethod/PlayerFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/target/test-classes/za/ac/cput/factoryMethod/PlayerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/test-classes/za/ac/cput/builderPattern/PlayerTestSuite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/classes/za/ac/cput/commandPattern/PointOfSell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/classes/za/ac/cput/commandPattern/PointOfSellApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/target/classes/za/ac/cput/statePattern/PowerSate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/target/test-classes/za/ac/cput/statePattern/PowerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/test-classes/za/ac/cput/testCases/PrototypeTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/target/test-classes/za/ac/cput/proxyPattern/ProxyPatternTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/target/classes/za/ac/cput/proxyPattern/RealFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/target/classes/za/ac/cput/iteratorPattern/Remote$nextChannel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/target/classes/za/ac/cput/iteratorPattern/Remote.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/target/classes/za/ac/cput/factoryMethod/RubyPlayer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/classes/za/ac/cput/builderPattern/Rugby.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/test-classes/za/ac/cput/builderPattern/RugbyPlayerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/classes/za/ac/cput/commandPattern/RunApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/classes/za/ac/cput/decoratorPattern/SUV.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/target/classes/za/ac/cput/facadePattern/Salary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/target/test-classes/za/ac/cput/facadePattern/SalaryTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/SecondYearDS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/BuilderPattern/SecondYearDiplomaCourseBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/SecondYearSubjectsFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/SecondYearTP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/FactoryMethod/Secretary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/ShipFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/test-classes/za/ac/cput/testCases/SingletonTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/classes/za/ac/cput/testCases/Socket.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/classes/za/ac/cput/testCases/SocketAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/classes/za/ac/cput/testCases/SocketClassAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/classes/za/ac/cput/testCases/SocketObjectAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/classes/za/ac/cput/flyweightPattern/Speed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/test-classes/za/ac/cput/flyweightPattern/SpeedTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/target/classes/za/ac/cput/compositePattern/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/target/classes/za/ac/cput/observerDisignPatten/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/target/classes/za/ac/cput/mementoPattern/StudentInfoCareTaker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/target/classes/za/ac/cput/mementoPattern/StudentInfor$Memento.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/target/classes/za/ac/cput/mementoPattern/StudentInfor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/target/test-classes/za/ac/cput/mementoPattern/StudentMementoTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/target/classes/za/ac/cput/observerDisignPatten/Subject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/Subject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/Prototype/Subject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/SubjectsFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/Transport/Submarine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/Transport/Tank.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/target/classes/za/ac/cput/compositePattern/Term.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/target/classes/za/ac/cput/compositePattern/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/target/test-classes/za/ac/cput/templateMethod/TestLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/target/test-classes/za/ac/cput/compositePattern/TestTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/ThirdYearDS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/BuilderPattern/ThirdYearDiplomaCourseBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/ThirdYearSubjectsFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/classes/za/ac/cput/testCases/AbstractFactory/ThirdYearTP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/Transport/Transport.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/classes/za/ac/cput/decoratorPattern/Transport.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/test-classes/za/ac/cput/abstractFactory/TransportTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/test-classes/za/ac/cput/decoratorPattern/TransportTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/classes/za/ac/cput/decoratorPattern/Truck.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/target/classes/za/ac/cput/mediator/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/classes/za/ac/cput/decoratorPattern/Vehicle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/classes/za/ac/cput/decoratorPattern/VehicleDecorator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/classes/za/ac/cput/abstractFactory/VehicleFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/classes/za/ac/cput/testCases/Voltage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/test-classes/za/ac/cput/testCases/VoltageTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/classes/za/ac/cput/commandPattern/Web.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/classes/za/ac/cput/commandPattern/WebApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/target/classes/za/ac/cput/observerDisignPatten/Year.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/singleton-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/AbstractFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/AbstractFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/test/java/za/ac/cput/testCases/AbstractTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/src/main/java/za/ac/cput/strategyPattern/Add.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/za/ac,cput/interpreter_pattern/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/test/java/za/ac/cput/bridgeDesignPattern/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/src/test/java/za/ac/cput/flyweightPattern/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/za/ac,cput/interpreter_pattern/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/src/test/java/za/ac/cput/testCases/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/src/main/java/za/ac/cput/statePattern/BatteryMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/main/java/za/ac/cput/bridgeDesignPattern/BlueColor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/test/java/za/ac/cput/testCases/BuilderTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/Transport/Bus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/src/main/java/za/ac/cput/singleton/CalculateR_Area.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/src/test/java/za/ac/cput/singleton/CalculateR_AreaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/src/test/java/za/ac/cput/strategyPattern/CalculateTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/src/main/java/za/ac/cput/strategyPattern/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/Singleton/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/src/main/java/za/ac/cput/iteratorPattern/Channel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/src/test/java/za/ac/cput/iteratorPattern/ChannelTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/src/main/java/za/ac/cput/mediator/ChartRoom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/src/test/java/za/ac/cput/mediator/ChatRoomTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/main/java/za/ac/cput/bridgeDesignPattern/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/Prototype/CloneObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/src/main/java/za/ac/cput/prototype/ClonePlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/main/java/za/ac/cput/bridgeDesignPattern/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/main/java/za/ac/cput/commandPattern/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/test/java/za/ac/cput/commandPattern/CommandTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/src/main/java/za/ac/cput/strategyPattern/Context.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/src/main/java/za/ac/cput/engineAdapter/Currency.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/src/main/java/za/ac/cput/engineAdapter/CurrencyConverterToDols.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/src/main/java/za/ac/cput/engineAdapter/CurrencyConverterToRands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/src/main/java/za/ac/cput/engineAdapter/CurrencyInD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/src/test/java/za/ac/cput/engineAdapter/CurrencyRandTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/BuilderPattern/DiplomaCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/BuilderPattern/DiplomaCourseBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/BuilderPattern/DiplomaCourseDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/src/main/java/za/ac/cput/strategyPattern/Division.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/src/main/java/za/ac/cput/facadePattern/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/FactoryMethod/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/FactoryMethod/EmployeeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/src/main/java/za/ac/cput/templateMethod/FacebookLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/test/java/za/ac/cput/testCases/FactoryMethodTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/FactoryType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/Transport/FerryBoat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/src/main/java/za/ac/cput/proxyPattern/File.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/src/main/java/za/ac/cput/proxyPattern/FileProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/main/java/za/ac/cput/builderPattern/FootBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/test/java/za/ac/cput/builderPattern/FootBallPlayerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/src/main/java/za/ac/cput/factoryMethod/FootballPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/src/main/java/za/ac/cput/prototype/FootballPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/src/test/java/za/ac/cput/prototype/FootballPlayerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/src/main/java/za/ac/cput/flyweightPattern/GearDown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/src/main/java/za/ac/cput/flyweightPattern/GearShifting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/src/main/java/za/ac/cput/flyweightPattern/GearUp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/src/main/java/za/ac/cput/testCases/GradeAHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/src/main/java/za/ac/cput/testCases/GradeBHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/src/main/java/za/ac/cput/testCases/GradeCHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/src/main/java/za/ac/cput/testCases/GradeDHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/src/test/java/za/ac/cput/testCases/GradeDHandlerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/src/main/java/za/ac/cput/testCases/GradeHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/src/main/java/za/ac/cput/statePattern/Laptop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/FactoryMethod/Lecturer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/Prototype/Lecturer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/src/main/java/za/ac/cput/templateMethod/Login.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/src/main/java/za/ac/cput/facadePattern/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/src/main/java/za/ac/cput/templateMethod/MxitLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/src/main/java/za/ac/cput/observerDisignPatten/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/src/test/java/za/ac/cput/observerDisignPatten/ObserverTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/src/main/java/za/ac/cput/statePattern/OnPlugMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/main/java/za/ac/cput/builderPattern/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/src/main/java/za/ac/cput/factoryMethod/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/main/java/za/ac/cput/builderPattern/PlayerBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/main/java/za/ac/cput/builderPattern/PlayerDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/src/main/java/za/ac/cput/factoryMethod/PlayerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/src/test/java/za/ac/cput/factoryMethod/PlayerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/test/java/za/ac/cput/builderPattern/PlayerTestSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/main/java/za/ac/cput/commandPattern/PointOfSell.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/main/java/za/ac/cput/commandPattern/PointOfSellApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/src/main/java/za/ac/cput/statePattern/PowerSate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/src/test/java/za/ac/cput/statePattern/PowerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/test/java/za/ac/cput/testCases/PrototypeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/src/test/java/za/ac/cput/proxyPattern/ProxyPatternTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/src/main/java/za/ac/cput/proxyPattern/RealFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/main/java/za/ac/cput/bridgeDesignPattern/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/main/java/za/ac/cput/bridgeDesignPattern/RedColor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/src/main/java/za/ac/cput/iteratorPattern/Remote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/src/main/java/za/ac/cput/factoryMethod/RubyPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/main/java/za/ac/cput/builderPattern/Rugby.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/src/test/java/za/ac/cput/builderPattern/RugbyPlayerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/main/java/za/ac/cput/commandPattern/RunApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/src/main/java/za/ac/cput/decoratorPattern/SUV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/src/main/java/za/ac/cput/facadePattern/Salary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/src/test/java/za/ac/cput/facadePattern/SalaryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/SecondYearDS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/BuilderPattern/SecondYearDiplomaCourseBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/SecondYearSubjectsFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/SecondYearTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/FactoryMethod/Secretary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/src/main/java/za/ac/cput/bridgeDesignPattern/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/ShipFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/test/java/za/ac/cput/testCases/SingletonTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/src/main/java/za/ac/cput/testCases/Socket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/src/main/java/za/ac/cput/testCases/SocketAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/src/main/java/za/ac/cput/testCases/SocketClassAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/src/main/java/za/ac/cput/testCases/SocketObjectAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/src/main/java/za/ac/cput/flyweightPattern/Speed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/src/test/java/za/ac/cput/flyweightPattern/SpeedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/src/main/java/za/ac/cput/compositePattern/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/src/main/java/za/ac/cput/observerDisignPatten/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/src/main/java/za/ac/cput/mementoPattern/StudentInfoCareTaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/src/main/java/za/ac/cput/mementoPattern/StudentInfor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/src/test/java/za/ac/cput/mementoPattern/StudentMementoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/src/main/java/za/ac/cput/observerDisignPatten/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/Prototype/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/SubjectsFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/Transport/Submarine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/surefire-reports/TEST-za.ac.cput.singleton.AppTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/Transport/Tank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/src/main/java/za/ac/cput/compositePattern/Term.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/src/main/java/za/ac/cput/compositePattern/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/src/test/java/za/ac/cput/templateMethod/TestLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/src/test/java/za/ac/cput/compositePattern/TestTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/ThirdYearDS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/BuilderPattern/ThirdYearDiplomaCourseBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/ThirdYearSubjectsFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/src/main/java/za/ac/cput/testCases/AbstractFactory/ThirdYearTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/Transport/Transport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/src/main/java/za/ac/cput/decoratorPattern/Transport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/test/java/za/ac/cput/abstractFactory/TransportTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/src/test/java/za/ac/cput/decoratorPattern/TransportTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/src/main/java/za/ac/cput/decoratorPattern/Truck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/src/main/java/za/ac/cput/mediator/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/src/main/java/za/ac/cput/decoratorPattern/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/src/main/java/za/ac/cput/decoratorPattern/VehicleDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/src/main/java/za/ac/cput/abstractFactory/VehicleFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/src/main/java/za/ac/cput/testCases/Voltage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/src/test/java/za/ac/cput/testCases/VoltageTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/main/java/za/ac/cput/commandPattern/Web.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/src/main/java/za/ac/cput/commandPattern/WebApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/src/main/java/za/ac/cput/observerDisignPatten/Year.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/abstractFactory.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/adapterPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/bridgeDesignPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/builderPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/chainOfResponsibility.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/commandPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/compositePattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/creationalPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/decoratorPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/engineAdapter.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/facadePattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/factoryMethod.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/flyweightPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interpreter_pattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/iteratorPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/mediator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/mementoPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/observerDisignPatten.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/adapterPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/chainOfResponsibility/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/creationalPattern/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/prototype.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/proxyPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/singleton.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/statePattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/strategyPattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/dictionaries/student.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/dictionaries/student.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/templateMethod.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/testCases.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/abstractFactory/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/builderPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/compositePattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/factoryMethod/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/prototype/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/bridgeDesignPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/compositePattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/decoratorPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/engineAdapter/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/facadePattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/flyweightPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Structural/proxyPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../commandPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iteratorPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mediator/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mementoPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observerDisignPatten/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../statePattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../strategyPattern/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templateMethod/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../testCases/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Creational/singleton/target/surefire-reports/za.ac.cput.singleton.AppTest.txt" />
+    </list>
     <ignored path="interpreter_pattern.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +644,27 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.59900165" vertical-offset="0" max-vertical-offset="601">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interpreter_pattern.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interpreter_pattern.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,7 +689,7 @@
     <option name="width" value="1368" />
     <option name="height" value="749" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -117,32 +745,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interpreter_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interpreter_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interpreter_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,22 +1006,25 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="daa4ccc3-f9cc-4662-ab71-33c5cbf61871" name="Default" comment="" />
       <created>1426273429999</created>
       <option name="number" value="Default" />
       <updated>1426273429999</updated>
-      <workItem from="1426273452684" duration="432000" />
+      <workItem from="1426273452684" duration="1225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="432000" />
+    <option name="totallyTimeSpent" value="1225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1368" height="749" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -442,7 +1047,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39968154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39968154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -475,10 +1080,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/interpreter_pattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="601">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.59900165" vertical-offset="0" max-vertical-offset="601">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
